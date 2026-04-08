@@ -11,10 +11,26 @@
 
 **`building things from the ground up`**
 
-[![](https://img.shields.io/badge/-black?style=flat-square&logo=rust)](https://github.com/Pixelrick420)
-[![](https://img.shields.io/badge/-00599C?style=flat-square&logo=c&logoColor=white)](https://github.com/Pixelrick420)
-[![](https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/Pixelrick420)
-[![](https://img.shields.io/badge/-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://cdn.simpleicons.org/python/3776AB" height="40"/>
+  </a>
+    <a href="https://github.com/Pixelrick420">
+    <img src="https://cdn.simpleicons.org/c/00599C" height="40"/>
+  </a>
+  <a href="https://github.com/Pixelrick420">
+    <img src="https://cdn.simpleicons.org/rust/DEA584" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40"/>
+  </a>
+  <a href="https://github.com/Pixelrick420">
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40"/>
+  </a>
+</p>
 
 
 <div align="center">
